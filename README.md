@@ -3,7 +3,8 @@ NGINX, the popular open source project trusted by more than 400 million sites. W
 
 This repo is to provide project candidates that can collaborate with you for designing secured and scalable modern application architecture and implementing the services using NGINX and the state-of-art technologies. In addition to that I would like to help you reduce your time via each repo from learning to developing and testing your applications and services in the area of security, API, Kubernetes, cloud platform/infra, and AI using NGINX.
 
-Please feel free to contribute the following repos, and give me any questions.
+Please feel free to contribute `design/code/doc/typo` to the following repos, and give me any questions.
+
 
 ### 🛡️ SSO, Secured API: User Authentication, API Authorization
 
