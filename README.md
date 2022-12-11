@@ -1,7 +1,7 @@
 ### Hi there 👋
 NGINX, the popular open source project trusted by more than 400 million sites. W3Techs announced that after many years of steady growth in market share, [NGINX is now the most popular web server in the world](https://www.nginx.com/blog/now-worlds-1-web-server-nginx-looks-forward-to-even-brighter-future/).
 
-This repo is to provide project candidates that can collaborate with you for designing secured and scalable modern application architecture and implementing the services using NGINX and the state-of-art technologies. In addition to that I would like to help you reduce your time via each repo from learning to developing and testing your applications and services in the area of security, API, Kubernetes, cloud platform/infra, and AI using NGINX.
+This repo is to provide project candidates that can collaborate with you for designing secured/scalable/resilient modern application architecture and implementing the services using NGINX and the state-of-art technologies. In addition to that I would like to help you reduce your time via each repo from learning to developing and testing your applications and services in the area of security, API, Kubernetes, cloud platform/infra, and AI using NGINX.
 
 Please feel free to contribute `design/code/doc/typo` to the following repos, and give me any questions.
 
