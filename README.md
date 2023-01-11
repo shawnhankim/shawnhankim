@@ -6,7 +6,7 @@ This repo is to provide project candidates that can collaborate with you for des
 Please feel free to contribute `design/code/doc/typo` to the following repos, and give me any questions.
 
 
-### 🛡️ SSO, Secured API: User Authentication, API Authorization
+### 🛡️ [SSO, Secured API: User Authentication, API Authorization](https://github.com/nginx-openid-connect)
 
 **NGINX Plus OIDC: Core Engine**
 - [NGINX Plus OIDC Core Engine v2](https://github.com/nginx-openid-connect/nginx-oidc-core)
