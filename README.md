@@ -38,8 +38,7 @@ Please feel free to contribute `design/code/doc/typo` to the following repos, an
 **NINGX Serverless: Core Engine**
 - [NGINX AWS Signature Library](https://github.com/nginx-serverless/nginx-aws-signature)
 - [NGINX Lambda Gateway](https://github.com/nginx-serverless/nginx-lambda-gateway)
-- [NGINX S3 Caching Gateway V1](https://github.com/nginx-serverless/nginx-s3-gateway-v1)
-- [NGINX S3 Caching Gateway V2](https://github.com/nginx-serverless/nginx-s3-gateway-v2)
+- [NGINX S3 Caching Gateway V1](https://github.com/nginx-serverless/nginx-s3-gateway)
 
 **NINGX Serverless: Examples**
 - [NGINX Serverless Example Collections](https://github.com/nginx-serverless/nginx-serverless-examples)
