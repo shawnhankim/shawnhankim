@@ -69,7 +69,7 @@ Please feel free to contribute `design/code/doc/typo` to the following repos, an
 
 
 ### ☁️ Secure Multi Cloud SaaS
-- [F5 Distributed Cloud]([### 💰 API Monetization](https://www.f5.com/cloud))
+- [F5 Distributed Cloud](https://www.f5.com/cloud)
 
 <!--
 **shawnhankim/shawnhankim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
