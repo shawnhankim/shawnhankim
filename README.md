@@ -60,7 +60,7 @@ Please feel free to contribute `design/code/doc/typo` to the following repos, an
 **NGINX Quotas**
 - [NGINX API Quotas](https://github.com/nginx-quotas/nginx-api-quotas) 
 - [NGINX Quota Decrementer](https://github.com/nginx-quotas/nginx-quota-decrementer)
-- [NGINX Quota Notification](https://github.com/nginx-quotas/nginx-quota-notification)
+- [NGINX Quota Notification via Lambda Gateway](https://github.com/nginx-quotas/nginx-quota-notification)
 
 ### 🧠 Intelligence
 - [NGINX Serverless AI Service Reference Implementation](https://github.com/nginx-ai)
