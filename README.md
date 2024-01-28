@@ -58,7 +58,7 @@ Please feel free to contribute `design/code/doc/typo` to the following repos, an
 - [NGINX Bring Your Own Custom Payment Gateway](https://github.com/nginx-payment-connect/nginx-byo-pay)
 
 **NGINX Quotas**
-- [NGINX API Quotas](https://github.com/nginx-quotas/nginx-api-quotas 
+- [NGINX API Quotas](https://github.com/nginx-quotas/nginx-api-quotas) 
 - [NGINX Quota Decrementer](https://github.com/nginx-quotas/nginx-quota-decrementer)
 - [NGINX Quota Notification](https://github.com/nginx-quotas/nginx-quota-notification)
 
