@@ -12,7 +12,7 @@ Please feel free to contribute `design/code/doc/typo` to the following links, an
 <table>
   <tr>
     <td style="background-color:#F4F6FC;"><b>OIDC RP, TMA</b></td>
-    <td colspan="6"><a href="https://github.com/nginx-openid-connect/nginx-oidc-multi-idps">NGINX OIDC Relying Party Core for Authentication & Authorization</a></td>
+    <td colspan="6"><a href="https://github.com/nginx-openid-connect/nginx-oidc-core">NGINX OIDC Relying Party Core for Authentication & Authorization</a></td>
     <td colspan="2"><a href="https://www.f5.com/resources/solution-guides/application-security-vulnerability-management-solution-overview">Security Vulnerability Mitigation</a></td>
   </tr>
   <tr>
@@ -45,7 +45,7 @@ Please feel free to contribute `design/code/doc/typo` to the following links, an
   </tr>
   <tr>
     <td style="background-color:#F4F6FC;"><b>Serverless</b></td>
-    <td colspan="2"><a href="https://github.com/nginx-openid-connect/nginx-oidc-kubernetes">NGINX S3 Caching Gateway</a></td>
+    <td colspan="2"><a href="https://github.com/nginx-serverless/nginx-s3-gateway">NGINX S3 Caching Gateway</a></td>
     <td colspan="2"><a href="https://github.com/nginx-serverless/nginx-aws-signature">NGINX AWS Signature Lib</a></td>
     <td colspan="2"><a href="https://github.com/nginx-serverless/nginx-lambda-gateway">NGINX Lambda Gateway</a></td>
     <td colspan="2"><a href="https://github.com/nginx-serverless/nginx-serverless-examples">Architecture Examples</a></td>
