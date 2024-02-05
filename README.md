@@ -1,75 +1,114 @@
 ### Hi there 👋
-F5 Distributed Cloud Services are SaaS-based security, networking, and application management services that enable customers to deploy, secure, and operate their applications in a cloud-native environment wherever needed–data center, multi-cloud, or the network or enterprise edge. (https://www.f5.com/cloud)
+**F5 Distributed Cloud Services** are **SaaS**-based **security, networking**, and **application management** services that enable customers to deploy, secure, and operate their applications in a cloud-native environment wherever needed–data center, multi-cloud, or the network or enterprise edge. (https://www.f5.com/cloud)
 
-NGINX, the popular open source project trusted by more than 400 million sites. W3Techs announced that after many years of steady growth in market share, [NGINX is now the most popular web server in the world](https://www.nginx.com/blog/now-worlds-1-web-server-nginx-looks-forward-to-even-brighter-future/).
+**NGINX**, the popular open source project trusted by more than **400 million sites**. W3Techs announced that after many years of steady growth in market share, [NGINX is now the **most popular web** server in the world](https://www.nginx.com/blog/now-worlds-1-web-server-nginx-looks-forward-to-even-brighter-future/).
 
-This repo is to provide project candidates that can collaborate with you for designing secured/scalable/resilient modern application architecture and implementing the services using NGINX and the state-of-art technologies. In addition to that I would like to help you reduce your time via each repo from learning to developing and testing your applications and services in the area of security, API, Kubernetes, cloud platform/infra, and AI using NGINX.
+This repo is to provide project candidates that can collaborate with you for designing and implementing secured/scalable/resilient modern application architecture in the area of security, APIs, cloud platform/infra, and AI/ML/Analytics.
 
-Please feel free to contribute `design/code/doc/typo` to the following repos, and give me any questions.
+Please feel free to contribute `design/code/doc/typo` to the following links, and give me any questions.
 
+## 🛡️ [Authentication & Authorization](https://github.com/nginx-openid-connect)
 
-### 🛡️ [SSO, Secured API: User Authentication, API Authorization](https://github.com/nginx-openid-connect)
-
-**NGINX Plus OIDC: Core Engine**
-- [NGINX Plus OIDC Core Engine v2](https://github.com/nginx-openid-connect/nginx-oidc-core)
-- [NGINX Plus OIDC Core Engine v1](https://github.com/nginx-openid-connect/nginx-oidc-core-v1)
-- [NGINX Plus OIDC Core Engine v1 - Quick Start Guide](https://github.com/nginx-openid-connect/nginx-oidc-examples/blob/main/001-oidc-local-test)
-
-**NGINX Plus OIDC: Identity Provider(IdP) Integration Examples** to quickly speed up OIDC Setup/Dev/Test A-To-Z!
-- [NGINX Plus OIDC w/ Amazon Cognito](https://github.com/nginx-openid-connect/nginx-oidc-amazon-cognito)
-- [NGINX Plus OIDC w/ Auth0](https://github.com/nginx-openid-connect/nginx-oidc-auth0)
-- [NGINX Plus OIDC w/ Azure AD](https://github.com/nginx-openid-connect/nginx-oidc-azure-ad)
-- [NGINX Plus OIDC w/ Keycloak](https://github.com/nginx-openid-connect/nginx-oidc-keycloak)
-- [NGINX Plus OIDC w/ Okta](https://github.com/nginx-openid-connect/nginx-oidc-okta)
-- [NGINX Plus OIDC w/ OneLogin](https://github.com/nginx-openid-connect/nginx-oidc-onelogin)
-- [NGINX Plus OIDC w/ Ping Identity](https://github.com/nginx-openid-connect/nginx-oidc-ping-identity)
-
-**NGINX Plus OIDC: Advanced Examples & Troubleshooting**
-- [NGINX Plus OIDC w/ Kubernetes](https://github.com/nginx-openid-connect/nginx-oidc-kubernetes)
-- [NGINX Plus OIDC w/ Kubernetes - Examples](https://github.com/nginx-openid-connect/nginx-oidc-k8s-examples)
-- [NGINX Plus OIDC w/ Multi IdPs per Cluster](https://github.com/nginx-openid-connect/nginx-oidc-multi-idps)
-- [NGINX Plus OIDC w/ Multi Clusters](https://github.com/nginx-openid-connect/nginx-oidc-multi-clusters)
-- [NGINX Plus OIDC Troubleshooting](https://github.com/nginx-openid-connect/nginx-oidc-troubleshooting)
-
-### ☁️ App/API Traffic, Cloud Service/Platform/Infra
-
-**NINGX API Connectivity Management: Control/Data Plane**
-- [NGINX Load Balancer: Consistent Hashing](https://github.com/shawnginx/nginx-consistent-hash)
-- [NGINX API Gateway: Bring Your Own Custom Policy w/ Microservices](https://github.com/nginx-byop)
-
-**NINGX Serverless: Core Engine**
-- [NGINX AWS Signature Library](https://github.com/nginx-serverless/nginx-aws-signature)
-- [NGINX Lambda Gateway](https://github.com/nginx-serverless/nginx-lambda-gateway)
-- [NGINX S3 Caching Gateway](https://github.com/nginx-serverless/nginx-s3-gateway)
-
-**NINGX Serverless: Examples**
-- [NGINX Serverless Example Collections](https://github.com/nginx-serverless/nginx-serverless-examples)
-- [NGINX Serverless Image Recognition](https://github.com/nginx-ai/nginx-serverless-image-recognition)
-- [NGINX AWS Serverless Notes w/ Architecture, Troubleshooting, FAQ, etc.](https://github.com/nginx-serverless/nginx-aws-serverless-notes)
-
-**Modern App Reference Architecture w/ Kubrenetes, Provisioned Infrastructure & Serverless**
-- [NGINX Lambda Reference Architecture](https://github.com/nginx-serverless/nginx-lambda-reference-architecture)
-- [NGINX Modern App Reference Architecture for Provisioned & Serverless Computing](https://github.com/nginx-serverless/kic-serverless-reference-architectures)
+<table>
+  <tr style="background-color:#DFE4F0;color:#ffffff;">
+    <th><b>Category</b></th>
+    <th colspan="8"><b>Link</b></th>
+  </tr>
+  <tr>
+    <td style="background-color:#F4F6FC;"><b>OIDC RP</b></td>
+    <td colspan="8"><a href="https://github.com/nginx-openid-connect/nginx-oidc-multi-idps">NGINX OIDC Relying Party Core Module & UI/BE Test Environment</a></td>
+  </tr>
+  <tr>
+    <td style="background-color:#F4F6FC;"><b>IAM Integration</b></td>
+    <td><a href="https://github.com/nginx-openid-connect/nginx-oidc-amazon-cognito">Amazon Cognito</a></td>
+    <td><a href="https://github.com/nginx-openid-connect/nginx-oidc-auth0">Auth0</a></td>
+    <td><a href="https://github.com/nginx-openid-connect/nginx-oidc-azure-ad">Azure Entera(AD)</a></td>
+    <td><a href="https://github.com/nginx-openid-connect/nginx-oidc-keycloak">Keycloak</a></td>
+    <td><a href="https://github.com/nginx-openid-connect/nginx-oidc-okta">Okta</a></td>
+    <td><a href="https://github.com/nginx-openid-connect/nginx-oidc-onelogin">OneLogin</a></td>
+    <td><a href="https://github.com/nginx-openid-connect/nginx-oidc-ping-identity">Ping Identity</a></td>
+    <td><a href="https://docs.cloud.f5.com/docs/how-to/user-mgmt/sso-google">Google</a></td>
+  </tr>
+  <tr>
+    <td style="background-color:#F4F6FC;"><b>Misc.</b></td>
+    <td colspan="3"><a href="https://github.com/nginx-openid-connect/nginx-oidc-kubernetes">Kubernetes Ingress Controller OIDC</a></td>
+    <td colspan="2"><a href="https://github.com/nginx-openid-connect/nginx-oidc-multi-idps">Multi IAM Clusters</a></td>
+    <td colspan="2"><a href="https://docs.cloud.f5.com/docs/ves-concepts/user-acc">F5 Distributed Cloud SaaS UAM</a></td>
+    <td colspan="2"><a href="https://github.com/nginx-openid-connect/nginx-oidc-troubleshooting">OIDC Troubleshooting</a></td>  </tr>
+</table>
 
 
-### 💰 API Monetization
+## ☁️ Network & Cloud
 
-**NGINX Payment Connect: Core Engine**
-- [NGINX Serverless Payment Gateway](https://github.com/nginx-payment-connect/nginx-serverless-payment)
-- [NGINX Bring Your Own Custom Distributed Rate Limiter](https://github.com/nginx-payment-connect/nginx-byo-rate-limit)
-- [NGINX Bring Your Own Custom Payment Gateway](https://github.com/nginx-payment-connect/nginx-byo-pay)
+<table>
+  <tr style="background-color:#DFE4F0;color:#ffffff;">
+    <th><b>Category</b></th>
+    <th colspan="7"><b>Link</b></th>
+  </tr>
+  <tr>
+    <td style="background-color:#F4F6FC;"><b>App/API Traffic</b></td>
+    <td colspan="4"><a href="https://github.com/shawnginx/nginx-consistent-hash">NGINX Load Balancer: Consistent Hashing</a></td>
+    <td colspan="4"><a href="https://github.com/nginx-byop/custom-jwt">NGINX API Gateway: NJS Module Feature</a></td>
+  </tr>
+  <tr>
+    <td style="background-color:#F4F6FC;"><b>Serverless</b></td>
+    <td colspan="2"><a href="https://github.com/nginx-openid-connect/nginx-oidc-kubernetes">NGINX S3 Caching Gateway</a></td>
+    <td colspan="2"><a href="https://github.com/nginx-serverless/nginx-aws-signature">NGINX AWS Signature Lib</a></td>
+    <td colspan="2"><a href="https://github.com/nginx-serverless/nginx-lambda-gateway">NGINX Lambda Gateway</a></td>
+    <td colspan="2"><a href="https://github.com/nginx-serverless/nginx-serverless-examples">Architecture Examples</a></td>
+  </tr>
+  <tr>
+    <td style="background-color:#F4F6FC;"><b>Platform</b></td>
+    <td colspan="3"><a href="https://github.com/nginx-serverless/kic-serverless-reference-architectures">NGINX Modern Reference Architecture</a></td>
+    <td colspan="3"><a href="https://www.f5.com/cloud">F5 Distributed Cloud SaaS</a></td>
+    <td colspan="2">Scaling/Infra Controller</a></td>
+  </tr>
+</table>
 
-**NGINX Quotas**
-- [NGINX API Quotas](https://github.com/nginx-quotas/nginx-api-quotas) 
-- [NGINX Quota Decrementer](https://github.com/nginx-quotas/nginx-quota-decrementer)
-- [NGINX Quota Notification via Lambda Gateway](https://github.com/nginx-quotas/nginx-quota-notification)
 
-### 🧠 Intelligence
-- [NGINX Serverless AI Service Reference Implementation](https://github.com/nginx-ai)
+## 🧠 Data Analytics, AI/ML
+<table>
+  <tr style="background-color:#DFE4F0;color:#ffffff;">
+    <th><b>Category</b></th>
+    <th colspan="4"><b>Link</b></th>
+  </tr>
+  <tr>
+    <td style="background-color:#F4F6FC;"><b>Metrics</b></td>
+    <td colspan="1"><a href="https://docs.nginx.com/nginx-controller/platform/integrations/splunk-integration/">NGINX w/ Splunk</a></td>
+    <td colspan="1"><a href="https://docs.nginx.com/nginx-controller/platform/integrations/datadog-integration/">NGINX w/ Datadog</a></td>
+    <td colspan="2"><a href="https://docs.cloud.f5.com/docs/ves-concepts/monitoring">F5 Distributed Cloud SaaS w/ Prometheus</a></td>    
+  </tr>
+  <tr>
+    <td style="background-color:#F4F6FC;"><b>Serverless AI</b></td>
+    <td colspan="4"><a href="https://github.com/nginx-ai">NGINX Serverless AI Service Reference Architecture Blueprint</a></td>
+  </tr>  
+  <tr>
+    <td style="background-color:#F4F6FC;"><b>AI/Analytics Platform</b></td>
+    <td colspan="2"><a href="https://www.samsungsds.com/us/ai/ai.html">Samsung AI/Analytics: Data Preparation, Data Lake, Data Analysis</a></td>
+    <td colspan="1"><a href="https://www.samsungsds.com/us/ai-ml/brightics-machine-learning.html">Brightics Machine Learning Offerings</a></td>
+    <td colspan="1"><a href="https://www.brightics.ai/">Brightics AI</a></td>
+  </tr>  
+</table>
 
 
-### ☁️ Secure Multi Cloud SaaS
-- [F5 Distributed Cloud](https://www.f5.com/cloud)
+## 💰 API Monetization
+
+<table>
+  <tr style="background-color:#DFE4F0;color:#ffffff;">
+    <th><b>Category</b></th>
+    <th colspan="3"><b>Link</b></th>
+  </tr>
+  <tr>
+    <td style="background-color:#F4F6FC;"><b>Payment</b></td>
+    <td colspan="3"><a href="https://github.com/nginx-payment-connect/nginx-serverless-payment">Serverless Payment Service Architecture Blueprint</a></td>
+  </tr>
+  <tr>
+    <td style="background-color:#F4F6FC;"><b>Quotas</b></td>
+    <td colspan="1"><a href="https://github.com/nginx-quotas/nginx-api-quotas">NGINX API Quotas</a></td>
+    <td colspan="1"><a href="https://github.com/nginx-quotas/nginx-quota-decrementer">NGINX Quota Decrementer</a></td>
+    <td colspan="1"><a href="https://github.com/nginx-quotas/nginx-quota-notification">NGINX Quota Notification via Lambda Gateway</a></td>
+  </tr>  
+</table>
 
 <!--
 **shawnhankim/shawnhankim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
