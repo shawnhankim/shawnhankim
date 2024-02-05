@@ -7,7 +7,7 @@ This repo is to provide project candidates that can collaborate with you for des
 
 Please feel free to contribute `design/code/doc/typo` to the following links, and give me any questions.
 
-## 🛡️ [Authentication & Authorization](https://github.com/nginx-openid-connect)
+### 🛡️ [Authentication & Authorization](https://github.com/nginx-openid-connect)
 
 <table>
   <tr style="background-color:#DFE4F0;color:#ffffff;">
@@ -38,7 +38,7 @@ Please feel free to contribute `design/code/doc/typo` to the following links, an
 </table>
 
 
-## ☁️ Network & Cloud
+### ☁️ Network & Cloud
 
 <table>
   <tr style="background-color:#DFE4F0;color:#ffffff;">
@@ -66,7 +66,7 @@ Please feel free to contribute `design/code/doc/typo` to the following links, an
 </table>
 
 
-## 🧠 Data Analytics, AI/ML
+### 🧠 Data Analytics, AI/ML
 <table>
   <tr style="background-color:#DFE4F0;color:#ffffff;">
     <th><b>Category</b></th>
@@ -91,7 +91,7 @@ Please feel free to contribute `design/code/doc/typo` to the following links, an
 </table>
 
 
-## 💰 API Monetization
+### 💰 API Monetization
 
 <table>
   <tr style="background-color:#DFE4F0;color:#ffffff;">
