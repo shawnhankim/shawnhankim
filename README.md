@@ -7,16 +7,13 @@ This repo is to provide project candidates that can collaborate with you for des
 
 Please feel free to contribute `design/code/doc/typo` to the following links, and give me any questions.
 
-### 🛡️ [Authentication & Authorization](https://github.com/nginx-openid-connect)
+### 🛡️ Security
 
 <table>
-  <tr style="background-color:#DFE4F0;color:#ffffff;">
-    <th><b>Category</b></th>
-    <th colspan="8"><b>Link</b></th>
-  </tr>
   <tr>
-    <td style="background-color:#F4F6FC;"><b>OIDC RP</b></td>
-    <td colspan="8"><a href="https://github.com/nginx-openid-connect/nginx-oidc-multi-idps">NGINX OIDC Relying Party Core Module & UI/BE Test Environment</a></td>
+    <td style="background-color:#F4F6FC;"><b>OIDC RP, TMA</b></td>
+    <td colspan="6"><a href="https://github.com/nginx-openid-connect/nginx-oidc-multi-idps">NGINX OIDC Relying Party Core for Authentication & Authorization</a></td>
+    <td colspan="2"><a href="https://www.f5.com/resources/solution-guides/application-security-vulnerability-management-solution-overview">Security Vulnerability Mitigation</a></td>
   </tr>
   <tr>
     <td style="background-color:#F4F6FC;"><b>IAM Integration</b></td>
@@ -41,10 +38,6 @@ Please feel free to contribute `design/code/doc/typo` to the following links, an
 ### ☁️ Network & Cloud
 
 <table>
-  <tr style="background-color:#DFE4F0;color:#ffffff;">
-    <th><b>Category</b></th>
-    <th colspan="7"><b>Link</b></th>
-  </tr>
   <tr>
     <td style="background-color:#F4F6FC;"><b>App/API Traffic</b></td>
     <td colspan="4"><a href="https://github.com/shawnginx/nginx-consistent-hash">NGINX Load Balancer: Consistent Hashing</a></td>
@@ -68,10 +61,6 @@ Please feel free to contribute `design/code/doc/typo` to the following links, an
 
 ### 🧠 Data Analytics, AI/ML
 <table>
-  <tr style="background-color:#DFE4F0;color:#ffffff;">
-    <th><b>Category</b></th>
-    <th colspan="4"><b>Link</b></th>
-  </tr>
   <tr>
     <td style="background-color:#F4F6FC;"><b>Metrics</b></td>
     <td colspan="1"><a href="https://www.nginx.com/partners/splunk/">NGINX w/ Splunk</a></td>
@@ -94,19 +83,15 @@ Please feel free to contribute `design/code/doc/typo` to the following links, an
 ### 💰 API Monetization
 
 <table>
-  <tr style="background-color:#DFE4F0;color:#ffffff;">
-    <th><b>Category</b></th>
-    <th colspan="3"><b>Link</b></th>
-  </tr>
   <tr>
     <td style="background-color:#F4F6FC;"><b>Payment</b></td>
-    <td colspan="3"><a href="https://github.com/nginx-payment-connect/nginx-serverless-payment">Serverless Payment Service Architecture Blueprint</a></td>
+    <td colspan="4"><a href="https://github.com/nginx-payment-connect/nginx-serverless-payment">Serverless Payment Service Architecture Blueprint</a></td>
   </tr>
   <tr>
     <td style="background-color:#F4F6FC;"><b>Quotas</b></td>
     <td colspan="1"><a href="https://github.com/nginx-quotas/nginx-api-quotas">NGINX API Quotas</a></td>
     <td colspan="1"><a href="https://github.com/nginx-quotas/nginx-quota-decrementer">NGINX Quota Decrementer</a></td>
-    <td colspan="1"><a href="https://github.com/nginx-quotas/nginx-quota-notification">NGINX Quota Notification via Lambda Gateway</a></td>
+    <td colspan="2"><a href="https://github.com/nginx-quotas/nginx-quota-notification">NGINX Quota Notification via Lambda Gateway</a></td>
   </tr>  
 </table>
 
