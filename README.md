@@ -74,8 +74,8 @@ Please feel free to contribute `design/code/doc/typo` to the following links, an
   </tr>
   <tr>
     <td style="background-color:#F4F6FC;"><b>Metrics</b></td>
-    <td colspan="1"><a href="https://docs.nginx.com/nginx-controller/platform/integrations/splunk-integration/">NGINX w/ Splunk</a></td>
-    <td colspan="1"><a href="https://docs.nginx.com/nginx-controller/platform/integrations/datadog-integration/">NGINX w/ Datadog</a></td>
+    <td colspan="1"><a href="https://www.nginx.com/partners/splunk/">NGINX w/ Splunk</a></td>
+    <td colspan="1"><a href="https://www.nginx.com/partners/datadog/">NGINX w/ Datadog</a></td>
     <td colspan="2"><a href="https://docs.cloud.f5.com/docs/ves-concepts/monitoring">F5 Distributed Cloud SaaS w/ Prometheus</a></td>    
   </tr>
   <tr>
