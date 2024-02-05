@@ -16,7 +16,7 @@ Please feel free to contribute `design/code/doc/typo` to the following links, an
     <td colspan="2"><a href="https://www.f5.com/resources/solution-guides/application-security-vulnerability-management-solution-overview">Security Vulnerability Mitigation</a></td>
   </tr>
   <tr>
-    <td style="background-color:#F4F6FC;"><b>IAM Integration</b></td>
+    <td style="background-color:#F4F6FC;"><b>Identity & Access Mgmt. I/F</b></td>
     <td><a href="https://github.com/nginx-openid-connect/nginx-oidc-amazon-cognito">Amazon Cognito</a></td>
     <td><a href="https://github.com/nginx-openid-connect/nginx-oidc-auth0">Auth0</a></td>
     <td><a href="https://github.com/nginx-openid-connect/nginx-oidc-azure-ad">Azure Entera(AD)</a></td>
