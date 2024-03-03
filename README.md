@@ -54,7 +54,7 @@ Please feel free to contribute `design/code/doc/typo` to the following links, an
     <td style="background-color:#F4F6FC;"><b>Platform</b></td>
     <td colspan="3"><a href="https://github.com/nginx-serverless/kic-serverless-reference-architectures">NGINX Modern Reference Architecture</a></td>
     <td colspan="3"><a href="https://www.f5.com/cloud">F5 Distributed Cloud SaaS</a></td>
-    <td colspan="2">Scaling/Infra Controller</a></td>
+    <td colspan="2">Cloud/K8s Scaling/Infra Controller</a></td>
   </tr>
 </table>
 
