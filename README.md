@@ -11,7 +11,7 @@ Please feel free to contribute `design/code/doc/typo` to the following links, an
 
 <table>
   <tr>
-    <td style="background-color:#F4F6FC;"><b>OIDC RP, TMA</b></td>
+    <td style="background-color:#F4F6FC;"><b><a href="https://github.com/nginx-openid-connect">OIDC RP</b><b>, TMA</b></td>
     <td colspan="6"><a href="https://github.com/nginx-openid-connect/nginx-oidc-core">NGINX OIDC Relying Party Core for Authentication & Authorization</a></td>
     <td colspan="2"><a href="https://www.f5.com/resources/solution-guides/application-security-vulnerability-management-solution-overview">Security Vulnerability Mitigation</a></td>
   </tr>
