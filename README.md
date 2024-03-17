@@ -45,7 +45,7 @@ Please feel free to contribute `design/code/doc/typo` to the following links, an
   </tr>
   <tr>
     <td style="background-color:#F4F6FC;"><b>Serverless</b></td>
-    <td colspan="2"><a href="https://github.com/nginx-serverless/nginx-s3-gateway">NGINX S3 Caching Gateway</a></td>
+    <td colspan="2"><a href="https://github.com/nginx-serverless/nginx-s3-gateway">NGINX S3 Auth/Caching Gateway</a></td>
     <td colspan="2"><a href="https://github.com/nginx-serverless/nginx-aws-signature">NGINX AWS Signature Lib</a></td>
     <td colspan="2"><a href="https://github.com/nginx-serverless/nginx-lambda-gateway">NGINX Lambda Gateway</a></td>
     <td colspan="2"><a href="https://github.com/nginx-serverless/nginx-serverless-examples">Architecture Examples</a></td>
