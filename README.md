@@ -19,7 +19,7 @@ Please feel free to contribute `design/code/doc/typo` to the following links, an
     <td style="background-color:#F4F6FC;"><b>Identity & Access Mgmt. I/F</b></td>
     <td><a href="https://github.com/nginx-openid-connect/nginx-oidc-amazon-cognito">Amazon Cognito</a></td>
     <td><a href="https://github.com/nginx-openid-connect/nginx-oidc-auth0">Auth0</a></td>
-    <td><a href="https://github.com/nginx-openid-connect/nginx-oidc-azure-ad">Azure Entera(AD)</a></td>
+    <td><a href="https://github.com/nginx-openid-connect/nginx-oidc-azure-ad">Azure Entera ID (AD)</a></td>
     <td><a href="https://github.com/nginx-openid-connect/nginx-oidc-keycloak">Keycloak</a></td>
     <td><a href="https://github.com/nginx-openid-connect/nginx-oidc-okta">Okta</a></td>
     <td><a href="https://github.com/nginx-openid-connect/nginx-oidc-onelogin">OneLogin</a></td>
@@ -28,7 +28,8 @@ Please feel free to contribute `design/code/doc/typo` to the following links, an
   </tr>
   <tr>
     <td style="background-color:#F4F6FC;"><b>Misc.</b></td>
-    <td colspan="3"><a href="https://github.com/nginx-openid-connect/nginx-oidc-kubernetes">Kubernetes Ingress Controller OIDC</a></td>
+    <td colspan="2"><a href="https://github.com/nginx-openid-connect/nginx-oidc-kubernetes">Kubernetes Ingress Controller OIDC</a></td>
+    <td colspan="1"><a href="https://github.com/nginx-openid-connect/f5-oidc-sso-simulator">F5 OIDC/SSO Simulator</a></td>
     <td colspan="2"><a href="https://github.com/nginx-openid-connect/nginx-oidc-multi-idps">Multi IAM Clusters</a></td>
     <td colspan="2"><a href="https://docs.cloud.f5.com/docs/ves-concepts/user-acc">F5 Distributed Cloud SaaS UAM</a></td>
     <td colspan="2"><a href="https://github.com/nginx-openid-connect/nginx-oidc-troubleshooting">OIDC Troubleshooting</a></td>  </tr>
